@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector(".nav"),t=document.querySelector(".burger"),c=document.querySelector("body");t.addEventListener("click",(()=>{e.classList.toggle("active"),c.classList.toggle("lock")}))}();
